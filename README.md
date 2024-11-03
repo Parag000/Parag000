@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Parag, an engineer who thrives on curiosity and creativity. Growing up, I wasn’t the traditional student; I often found myself more fascinated by dismantling toys and solving puzzles than by textbooks. While my academic journey had its struggles, these experiences shaped my unconventional approach to problem-solving.
+I’m Parag, an engineer who’s never quite fit into the traditional mold. Growing up in Bangalore, I wasn’t the best student, and school didn’t exactly capture my interest. My real education happened at home, dismantling toys to understand motors, losing myself in hours of origami, and constructing rock stacks and card towers. I wasn’t driven by grades or fitting in—I was driven by the thrill of building things, even if no one else understood why.
 
 My passion for building led me to earn a degree in AI & ML, where I discovered that true engineering involves more than just coding—it's about architecting solutions that resonate with users. I faced challenges in communication and storytelling, which drove me to pursue a master’s degree in Data Analytics to refine these skills.
 
