@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi there! I’m Parag, an engineer fueled by curiosity and a relentless desire to create. Growing up, I often felt out of place in a traditional school environment, where my lack of interest in grades was overshadowed by my fascination with building and exploring. I spent countless hours dismantling toys, solving puzzles, and crafting intricate origami designs—activities that didn’t earn me accolades but sparked a passion for understanding how things work.<br><br>Overtime I developed a passion for understanding algorithms and building machine learning applications transformed my perspective on learning. However, I faced my share of failures along the way—whether it was grappling with communication barriers or realizing that being skilled at coding wasn’t enough to excel in engineering.<br><br>Motivated to improve my storytelling, I pursued a master’s degree in Data Analytics. This experience taught me that engineering is not just about programming; it’s about leading and inspiring others to turn ideas into reality.  To me, building isn’t just about code; it’s about curiosity, creativity, and making things that matter.
+I'm Parag, an engineer who thrives on curiosity and creativity. Growing up, I wasn’t the traditional student; I often found myself more fascinated by dismantling toys and solving puzzles than by textbooks. While my academic journey had its struggles, these experiences shaped my unconventional approach to problem-solving.
+
+My passion for building led me to earn a degree in AI & ML, where I discovered that true engineering involves more than just coding—it's about architecting solutions that resonate with users. I faced challenges in communication and storytelling, which drove me to pursue a master’s degree in Data Analytics to refine these skills.
+
+Today, I combine my technical expertise in Python, JavaScript, SQL, TensorFlow, and more with a relentless desire to innovate. I embrace failures as stepping stones to growth and believe in the power of collaboration and creativity. Let’s connect and explore how we can turn ideas into impactful solutions together!
 
 
 ## 🌐 Socials:
