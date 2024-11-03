@@ -1,3 +1,11 @@
+<a href="https://www.vecteezy.com/vector-art/7095823-analysis-data-and-planning-concept-vector-flat-illustration-design-printed-web-banner-desktop-for-business-with-graphics-laptop-and-documents-top-view">
+    <img src="vecteezy_analysis-data-and-planning-concept-vector-flat-illustration_7095823.jpg" alt="Analysis Data and Planning Concept" style="width: 100%; height: 350px;">
+</a>
+
+
+
+
+
 # 💫 About Me:
 I’m Parag, an engineer who’s never quite fit into the traditional mold. Growing up in Bangalore, I wasn’t the best student, and school didn’t exactly capture my interest. My real education happened at home, dismantling toys to understand motors, losing myself in hours of origami, and constructing rock stacks and card towers. I wasn’t driven by grades or fitting in—I was driven by the thrill of building things, even if no one else understood why.
 
