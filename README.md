@@ -3,7 +3,8 @@ I’m Parag, an engineer who’s never quite fit into the traditional mold. Grow
 
 My passion for building led me to earn a degree in AI & ML, where I discovered that true engineering involves more than just coding—it's about architecting solutions that resonate with users. I faced challenges in communication and storytelling, which drove me to pursue a master’s degree in Data Analytics to refine these skills.
 
-Today, I combine my technical expertise in Python, JavaScript, SQL, TensorFlow, and more with a relentless desire to innovate. I embrace failures as stepping stones to growth and believe in the power of collaboration and creativity. Let’s connect and explore how we can turn ideas into impactful solutions together!
+Today, I combine my technical expertise with a relentless desire to innovate. I embrace failures as stepping stones to growth and believe in the power of collaboration and creativity. 
+Let’s connect and explore how we can turn ideas into impactful solutions together!
 
 
 ## 🌐 Socials:
